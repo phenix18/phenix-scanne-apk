@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "updated": "2026-11-23",
+  "packages": {
+    "com.phenixscanne.testvirus": "Test Phenix (faux virus inoffensif, pour vérifier la détection)"
+  },
+  "sha256": {},
+  "certs": {},
+  "keywords": {
+    "mspy": "mSpy (logiciel espion commercial)",
+    "flexispy": "FlexiSPY (logiciel espion commercial)",
+    "hoverwatch": "Hoverwatch (logiciel espion commercial)",
+    "cocospy": "Cocospy (logiciel espion commercial)",
+    "truthspy": "TheTruthSpy (logiciel espion commercial)",
+    "xnspy": "XNSPY (logiciel espion commercial)",
+    "spyzie": "Spyzie (logiciel espion commercial)",
+    "spyic": "Spyic (logiciel espion commercial)",
+    "highster": "Highster Mobile (logiciel espion commercial)",
+    "umobix": "uMobix (logiciel espion commercial)",
+    "eyezy": "Eyezy (logiciel espion commercial)",
+    "spyera": "Spyera (logiciel espion commercial)",
+    "mobistealth": "MobiStealth (logiciel espion commercial)",
+    "spyhide": "SpyHide (logiciel espion commercial)",
+    "copy9": "Copy9 (logiciel espion commercial)",
+    "ikeymonitor": "iKeyMonitor (enregistreur de frappe)",
+    "kidsguard": "KidsGuard Pro (surveillance cachée)",
+    "clevguard": "ClevGuard (surveillance cachée)",
+    "keylogger": "Enregistreur de frappe (keylogger)",
+    "stalker": "Logiciel de traque (stalkerware)"
+  }
+}
